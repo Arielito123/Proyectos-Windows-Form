@@ -1,0 +1,1 @@
+C:\c#\Segundo año Analista de sistema\FormBuenEmpleado\FormBuenEmpleado\bin\Debug\FormBuenEmpleado.exe.config
