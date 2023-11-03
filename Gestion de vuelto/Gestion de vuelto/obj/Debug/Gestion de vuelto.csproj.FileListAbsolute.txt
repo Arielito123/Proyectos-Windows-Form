@@ -1,0 +1,18 @@
+C:\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\bin\Debug\Gestion de vuelto.exe.config
+C:\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\bin\Debug\Gestion de vuelto.exe
+C:\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\bin\Debug\Gestion de vuelto.pdb
+C:\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion_de_vuelto.Form1.resources
+C:\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion_de_vuelto.Properties.Resources.resources
+C:\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion de vuelto.csproj.GenerateResource.Cache
+C:\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion de vuelto.exe
+C:\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion de vuelto.pdb
+C:\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion de vuelto.csprojResolveAssemblyReference.cache
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\bin\Debug\Gestion de vuelto.exe.config
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion de vuelto.exe
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion de vuelto.pdb
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\bin\Debug\Gestion de vuelto.exe
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\bin\Debug\Gestion de vuelto.pdb
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion de vuelto.csprojResolveAssemblyReference.cache
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion_de_vuelto.Form1.resources
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion_de_vuelto.Properties.Resources.resources
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Gestion de vuelto\Gestion de vuelto\obj\Debug\Gestion de vuelto.csproj.GenerateResource.Cache
