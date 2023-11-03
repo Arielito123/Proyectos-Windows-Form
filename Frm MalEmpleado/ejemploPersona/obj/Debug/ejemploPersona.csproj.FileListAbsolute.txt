@@ -1,0 +1,19 @@
+C:\c#\Segundo año Analista de sistema\ejemploPersona\ejemploPersona\bin\Debug\ejemploPersona.exe.config
+C:\c#\Segundo año Analista de sistema\ejemploPersona\ejemploPersona\bin\Debug\ejemploPersona.exe
+C:\c#\Segundo año Analista de sistema\ejemploPersona\ejemploPersona\bin\Debug\ejemploPersona.pdb
+C:\c#\Segundo año Analista de sistema\ejemploPersona\ejemploPersona\obj\Debug\ejemploPersona.csprojResolveAssemblyReference.cache
+C:\c#\Segundo año Analista de sistema\ejemploPersona\ejemploPersona\obj\Debug\ejemploPersona.FrmPersona.resources
+C:\c#\Segundo año Analista de sistema\ejemploPersona\ejemploPersona\obj\Debug\ejemploPersona.Properties.Resources.resources
+C:\c#\Segundo año Analista de sistema\ejemploPersona\ejemploPersona\obj\Debug\ejemploPersona.csproj.GenerateResource.Cache
+C:\c#\Segundo año Analista de sistema\ejemploPersona\ejemploPersona\obj\Debug\ejemploPersona.exe
+C:\c#\Segundo año Analista de sistema\ejemploPersona\ejemploPersona\obj\Debug\ejemploPersona.pdb
+C:\c#\Segundo año Analista de sistema\Frm MalEmpleado\ejemploPersona\bin\Debug\ejemploPersona.exe.config
+C:\c#\Segundo año Analista de sistema\Frm MalEmpleado\ejemploPersona\obj\Debug\ejemploPersona.exe
+C:\c#\Segundo año Analista de sistema\Frm MalEmpleado\ejemploPersona\obj\Debug\ejemploPersona.pdb
+C:\c#\Segundo año Analista de sistema\Frm MalEmpleado\ejemploPersona\bin\Debug\ejemploPersona.exe
+C:\c#\Segundo año Analista de sistema\Frm MalEmpleado\ejemploPersona\bin\Debug\ejemploPersona.pdb
+C:\c#\Segundo año Analista de sistema\Frm MalEmpleado\ejemploPersona\obj\Debug\ejemploPersona.csprojResolveAssemblyReference.cache
+C:\c#\Segundo año Analista de sistema\Frm MalEmpleado\ejemploPersona\obj\Debug\ejemploPersona.FrmPersona.resources
+C:\c#\Segundo año Analista de sistema\Frm MalEmpleado\ejemploPersona\obj\Debug\ejemploPersona.Properties.Resources.resources
+C:\c#\Segundo año Analista de sistema\Frm MalEmpleado\ejemploPersona\obj\Debug\ejemploPersona.csproj.GenerateResource.Cache
+C:\c#\Segundo año Analista de sistema\Frm MalEmpleado\ejemploPersona\obj\Debug\ejemploPersona.frmEmpleado.resources
