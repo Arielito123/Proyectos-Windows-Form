@@ -1,0 +1,18 @@
+C:\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\bin\Debug\Iva (producto).exe.config
+C:\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\bin\Debug\Iva (producto).exe
+C:\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\bin\Debug\Iva (producto).pdb
+C:\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva (producto).csprojResolveAssemblyReference.cache
+C:\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva__producto_.Properties.Resources.resources
+C:\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva (producto).csproj.GenerateResource.Cache
+C:\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva (producto).exe
+C:\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva (producto).pdb
+C:\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva__producto_.frmInicio.resources
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\bin\Debug\Iva (producto).exe.config
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva (producto).exe
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva (producto).pdb
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\bin\Debug\Iva (producto).exe
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\bin\Debug\Iva (producto).pdb
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva (producto).csprojResolveAssemblyReference.cache
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva__producto_.frmInicio.resources
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva__producto_.Properties.Resources.resources
+C:\NICOHEREDIA\c#\Mis Proyectos Windows Forms\Iva (producto)\Iva (producto)\obj\Debug\Iva (producto).csproj.GenerateResource.Cache
